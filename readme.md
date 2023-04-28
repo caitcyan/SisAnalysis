@@ -1,5 +1,7 @@
 # Análisis de las atenciones del SIS EN LIMA METROPOLITANA 2021 y 2022
 
+En el Perú, un total de 25 319 949 personas están aseguradas al Seguro Integral de Salud (SIS), siendo Lima Metropolitana la que cuenta con una mayor cifra de afiliados: 6 304 416 (2022).
+
 El siguiente trabajo consiste en el análisis de la cantidad de atenciones de asegurados del SIS, Lima, Peru. 
 
 Dataset:
